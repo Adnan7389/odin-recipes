@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+.container {
+  text-align: center;
+}
+.All {
+  height: 150px;
+  font-size: 25px;
+}
+.pizza {
+  background-color: #ffd700;
+}
+.chicken {
+  background-color: #daa520;
+}
+.meatloaf {
+  background-color: #b22222;
+}
